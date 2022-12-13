@@ -1,0 +1,5 @@
+// starting dev server (local host)
+firebase serve
+
+// deploying functions
+firebase deploy --only functions
